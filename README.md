@@ -198,12 +198,12 @@ Open Source - Check repository for details
 ## Screenshots
 
 ### Home Screen
-![Home Screen](ipaddev.png)
+![Home Screen](/ipaddm4.png)
 
 ### Newsroom
-![Newsroom](ipadnewsroom.png)
+![Newsroom](/ipadnewsroom.png)
 
 ### About Developer
-![About Developer](macdev.png)
+![About Developer](/macdev.png)
 
 Crafted with ❤️ by Tirawat Nantamas
