@@ -195,5 +195,15 @@ struct AboutDeveloperView: View {
 Open Source - Check repository for details
 
 ---
+## Screenshots
+
+### Home Screen
+![Home Screen](https://yoursite.com/path/to/homescreen.png)
+
+### Newsroom
+![Newsroom](https://yoursite.com/path/to/newsroom.png)
+
+### About Developer
+![About Developer](https://yoursite.com/path/to/aboutdev.png)
 
 Crafted with ❤️ by Tirawat Nantamas
